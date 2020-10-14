@@ -1,0 +1,20 @@
+<html>
+<body>
+<?php
+$a= array("MacBook","Lenovo","Asus","Toshiba","HP","Sony Vaio");
+foreach ($a as $value) {
+	echo $value."<br>";
+}
+?>
+</body>
+</html>
+
+
+
+
+
+
+
+
+(membagi bilangan array)
+tergantung kasusnya
